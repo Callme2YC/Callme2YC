@@ -16,7 +16,11 @@ Thank you for visiting my GitHub profile. I'm excited to share my journey in the
 
 <h3 align="left">📬 Connect with me:</h3>
 <p>
-  <a href="https://https://www.linkedin.com/in/yichenyuu//" target="blank">
+  <a href="https://www.linkedin.com/in/yichenyuu/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
+  <a href="mailto:yyc2401@outlook.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="email" height="30" width="40" />
+  </a>
 </p>
+
