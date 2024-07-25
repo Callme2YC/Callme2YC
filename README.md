@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 📊 Experienced Data Analyst with 2 years of expertise in financial analysis, data management, and process improvement.
+- 📊 Experienced Data Analyst with around 2 years of expertise in financial analysis, data management, and process improvement.
 - 🎓 Currently pursuing a Master of Management in Analytics at McGill University, enhancing my skills in advanced statistics and data-driven decision-making.
 - 💼 Proficient in SQL, Python, R, and advanced Excel, with hands-on experience in automating data workflows and financial reporting.
 - 🌟 Strong background in managing day trades, settlements, and profit and loss reports at MUFG Investor Services.
