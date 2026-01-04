@@ -1,26 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yichen</h1>
-<h3 align="center">Data Analyst | Business Strategist | Analytics Enthusiast</h3>
+# Hi there, I'm Yichen Yu 👋
 
-<h3 align="left">About Me</h3>
+### 🚀 Corporate Treasury Analyst @ RBC | MMA Graduate | Automation Specialist
 
-- 📊 Experienced Data Analyst with around 2 years of expertise in financial analysis, data management, and process improvement.
-- 🎓 Currently pursuing a Master of Management in Analytics at McGill University, enhancing my skills in advanced statistics and data-driven decision-making.
-- 💼 Proficient in SQL, Python, R, and advanced Excel, with hands-on experience in automating data workflows and financial reporting.
-- 🌟 Strong background in managing day trades, settlements, and profit and loss reports at MUFG Investor Services.
-- 📈 Skilled in creating insightful data visualizations and dashboards using Tableau and PowerBI.
-- 📉 Contributed to various projects involving data analysis, machine learning, and optimization modeling.
-- 🌱 Passionate about leveraging data to drive strategic business decisions and deliver impactful insights.
-- ⚡ Fun fact: I enjoy playing League of Legends in my free time!
+I am a data professional bridging the gap between **Finance** and **Technology**. [cite_start]Currently, I work at **Royal Bank of Canada (RBC)**, where I leverage Python and Generative AI to automate complex reporting workflows and enhance operational efficiency[cite: 36, 37, 38, 63].
 
-Thank you for visiting my GitHub profile. I'm excited to share my journey in the world of analytics and look forward to connecting with you!
+- [cite_start]🎓 **Education:** Master of Management in Analytics (MMA), McGill University.
+- [cite_start]💼 **Current Role:** Corporate Treasury Reporting Analyst, focusing on LCR variance automation and Data Governance[cite: 37, 38, 39].
+- [cite_start]🛠️ **Core Stack:** Python (Pandas, ETL Pipelines), SQL, Tableau, Excel VBA, Generative AI[cite: 63].
 
-<h3 align="left">📬 Connect with me:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/yichenyuu/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:yyc2401@outlook.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
+### 💡 What I'm Working On
+- [cite_start]**Python ETL Pipelines:** Automating data segregation for liquidity reporting, cutting turnaround time from 1 hr to 15 mins[cite: 38].
+- [cite_start]**Data Governance:** Establishing SOPs and validation controls to prevent audit risks[cite: 39].
+- [cite_start]**Visualization:** Designing interactive Tableau dashboards for real-time liquidity monitoring across 12+ entities[cite: 42].
 
+### 🌱 Previously
+- [cite_start]**MUFG Investor Services:** Automated trade lifecycle processes using VBA, reducing operational workload by 40%[cite: 43, 45].
+- [cite_start]**McKesson:** Developed an inventory optimization framework using Python-based demand forecasting models[cite: 50, 51].
+
+⚡ **Fun fact:** When I'm not automating workflows, I'm probably playing **League of Legends**!
